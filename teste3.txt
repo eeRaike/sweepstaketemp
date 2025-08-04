@@ -4,7 +4,7 @@ teste
 +
 steseteasdas
 +
-If you have no pets, it's known that there's a rare chance for an egg to appear giving you a random pet. This is the only way to get some of the secret cats in the game, which are still super rare on top of THAT.
+<p>If you have no pets, it's known that there's a rare chance for an egg to appear giving you a random pet. This is the only way to get some of the <a href="/rain">secret cats</a> in the game, which are still super rare on top of THAT.</p>
 +
 So it's a lot of waiting for eggs, hatching them, and throwing away tons of cats trying to get the perfect character (This caused other problems but I'll explain that another time XP)
 +
